@@ -1,0 +1,24 @@
+*{
+  background-color: chartreuse;  
+}
+
+.artificial {
+    color:red;
+}
+
+ul > li  {
+    color: blueviolet;
+    background-color: aquamarine;
+}
+ul li  {
+    color: rgb(214, 226, 43);
+    background-color: aquamarine;
+}
+#romanicogermanico {
+    font-style: italic !important;
+
+}
+li {
+    color: rgb(226, 70, 43);
+    background-color: aquamarine;
+}
